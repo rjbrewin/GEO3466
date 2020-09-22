@@ -1,2 +1,0 @@
-wget -q -O A2020146.L3m_DAY_CHL_chlor_a_4km.nc https://oceandata.sci.gsfc.nasa.gov/ob/getfile/A2020146.L3m_DAY_CHL_chlor_a_4km.nc
-wget -q -O A2020146.L3m_DAY_PAR_par_4km.nc https://oceandata.sci.gsfc.nasa.gov/ob/getfile/A2020146.L3m_DAY_PAR_par_4km.nc
