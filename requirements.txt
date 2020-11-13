@@ -1,7 +1,7 @@
 numpy >=1.14
 pandas
 matplotlib
-scipy
+scipy ==1.5.2
 netCDF4
 julian
 colour
